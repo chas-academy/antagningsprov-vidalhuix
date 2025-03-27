@@ -4,8 +4,8 @@ function uppg8() {
   const people = [
     { name: "Arnau", age: 33 },
     { name: "Lenard", age: 25 },
-    { name: "Pol", age: 22 },
-    { name: "Nuria", age: 19 },
+    { name: "Pol", age: 32 },
+    { name: "Nuria", age: 49 },
     { name: "Laia", age: 25 },
   ];
 

@@ -10,7 +10,7 @@ function uppg10() {
   // bigEven ska innehålla tal större än 10 och jämnt delbara med 2
   // smallOdd ska innehålla tal mindre än 10 och udda
   // other ska innehålla alla andra tal
-  for (number of numbers) {
+  for (const number of numbers) {
     if (number % 2 === 0 && number >= 10) {
       bigEven.push(number);
     } else if (number % 2 !== 0 && number < 10) {

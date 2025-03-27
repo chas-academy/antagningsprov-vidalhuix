@@ -5,7 +5,7 @@ function uppg4() {
   // skriv ut med dotnotation åldern i konsolen
   const person = {
     name: "Arnau",
-    age: "25",
+    age: 25,
   };
 
   console.log(person.name);
